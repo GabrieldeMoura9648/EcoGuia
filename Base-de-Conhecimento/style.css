@@ -1,21 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap'); /* Importa a fonte Quicksand do Google Fonts */
-
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
 * {
     box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total do elemento */
 }
 
 :root {
-    --primary-color: #8ab4f8;   /* Cor primária (azul claro) */
+    --primary-color: #2c6bd1;   /* Cor primária (azul claro) */
     --secondary-color: #e8eaed; /* Cor secundária (cinza claro) */
-    --tertiary-color: #9aa0a6;  /* Cor terciária (cinza médio) */
+    --tertiary-color: #072f57;  /* Cor terciária (cinza médio) */
     --bg-color: #202124;        /* Cor de fundo (cinza escuro) */
 }
 
 body {
-    margin: 0;                              /* Remove a margem padrão do body */
-    background: var(--bg-color);            /* Define a cor de fundo usando uma variável */
-    color: var(--secondary-color);          /* Define a cor do texto padrão usando uma variável */
-    font-family: "Quicksand", sans-serif;   /* Define a família da fonte */
+    margin: 0;                                  /* Remove a margem padrão do body */
+    background: var(--bg-color);                /* Define a cor de fundo usando uma variável */
+    color: var(--secondary-color);              /* Define a cor do texto padrão usando uma variável */
+    font-family:"Comic Relief", system-ui;      /* Define a família da fonte */
 }
 
 header {

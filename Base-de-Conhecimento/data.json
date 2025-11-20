@@ -1,7 +1,7 @@
 [
     {
         "nome": "Abutre",
-        "primeira aparição": "1963 - The Amazing Spider-Man #2",
+        "aparição": "1963 - The Amazing Spider-Man #2",
         "descrição": "Adrian Toomes, engenheiro que criou um traje alado que permite voo, força aumentada e armas — um dos primeiros inimigos do Homem-Aranha.",
         "criador(es)": "Stan Lee e Steve Ditko",
         "link": "https://pt.wikipedia.org/wiki/Abutre_(Marvel_Comics)"
@@ -9,7 +9,7 @@
 
     {
         "nome": "Camaleão",
-        "primeira aparição": "1963 - The Amazing Spider-Man #1",
+        "aparição": "1963 - The Amazing Spider-Man #1",
         "descrição": "Dmitri Smerdyakov, mestre dos disfarces e espionagem, conhecido por se passar por outras pessoas para manipular o Aranha.",
         "criador(es)": "Stan Lee e Steve Ditko",
         "link": "https://pt.wikipedia.org/wiki/Camale%C3%A3o_(Marvel_Comics)"
@@ -17,7 +17,7 @@
 
     {
         "nome": "Doutor Octopus",
-        "primeira aparição": "1963 - The Amazing Spider-Man #3",
+        "aparição": "1963 - The Amazing Spider-Man #3",
         "descrição": "Otto Octavius, cientista com tentáculos mecânicos presos ao corpo; um dos intelectos e adversários mais perigosos do Aranha.",
         "criador(es)": "Stan Lee e Steve Ditko",
         "link": "https://pt.wikipedia.org/wiki/Doutor_Octopus"
@@ -25,7 +25,7 @@
 
     {
         "nome": "Duende Verde",
-        "primeira aparição": "1964 - The Amazing Spider-Man #14",
+        "aparição": "1964 - The Amazing Spider-Man #14",
         "descrição": "Normalmente associado a Norman Osborn (entre outros), usa tecnologia e munições temáticas; é um inimigo pessoal e icônico do Homem-Aranha.",
         "criador(es)": "Stan Lee e Steve Ditko",
         "link": "https://pt.wikipedia.org/wiki/Duende_Verde_(Homem-Aranha)"
@@ -33,7 +33,7 @@
 
     {
         "nome": "Eletro",
-        "primeira aparição": "1964 - The Amazing Spider-Man #9",
+        "aparição": "1964 - The Amazing Spider-Man #9",
         "descrição": "Max Dillon, criminoso que ganhou a habilidade de gerar e controlar eletricidade, representando uma ameaça energética ao Aranha.",
         "criador(es)": "Stan Lee e Steve Ditko",
         "link": "https://pt.wikipedia.org/wiki/Eletro_(Marvel_Comics)"
@@ -41,7 +41,7 @@
 
     {
         "nome": "Homem-Areia",
-        "primeira aparição": "1963 - The Amazing Spider-Man #4",
+        "aparição": "1963 - The Amazing Spider-Man #4",
         "descrição": "Flint Marko (às vezes chamado William Baker), ganha a habilidade de transformar seu corpo em areia, mudando forma e densidade.",
         "criador(es)": "Stan Lee e Steve Ditko",
         "link": "https://pt.wikipedia.org/wiki/Homem-Areia_(Marvel_Comics)"
@@ -49,7 +49,7 @@
 
     {
         "nome": "Kraven, o Caçador",
-        "primeira aparição": "1964 - The Amazing Spider-Man #15",
+        "aparição": "1964 - The Amazing Spider-Man #15",
         "descrição": "Serguei Kravinoff, caçador obcecado por provar que é superior ao Homem-Aranha; famoso por suas histórias sombrias e a Caçada Final.",
         "criador(es)": "Stan Lee e Steve Ditko",
         "link": "https://pt.wikipedia.org/wiki/Kraven,_o_Ca%C3%A7ador"
@@ -57,41 +57,41 @@
 
     {
         "nome": "Lagarto",
-        "primeira aparição": "1963 - The Amazing Spider-Man #6",
+        "aparição": "1963 - The Amazing Spider-Man #6",
         "descrição": "Dr. Curt Connors, cientista que, ao tentar regenerar seu braço perdido, se transforma em um réptil humanoide com força e agilidade aumentadas.",
-        "criador(es)": "Stan Lee e Steve Ditko",
+        "criador": "Stan Lee e Steve Ditko",
         "link": "https://pt.wikipedia.org/wiki/Lagarto_(personagem)"
     },
 
     {
         "nome": "Mysterio",
-        "primeira aparição": "1964 - The Amazing Spider-Man #13",
+        "aparição": "1964 - The Amazing Spider-Man #13",
         "descrição": "Quentin Beck, especialista em efeitos especiais e ilusionismo que usa truques, hologramas e tecnologia para enganar e desafiar o Aranha.",
-        "criador(es)": "Stan Lee e Steve Ditko",
+        "criador": "Stan Lee e Steve Ditko",
         "link": "https://pt.wikipedia.org/wiki/Mysterio"
     },
 
     {
         "nome": "Rei do Crime",
-        "primeira aparição": "1967 - The Amazing Spider-Man #50",
+        "aparição": "1967 - The Amazing Spider-Man #50",
         "descrição": "Wilson Fisk, poderoso chefão do crime organizado, antagonista principal de vários heróis da Marvel, incluindo o Homem-Aranha em algumas histórias.",
-        "criador(es)": "Stan Lee e John Romita Sr.",
+        "criador": "Stan Lee e John Romita Sr.",
         "link": "https://pt.wikipedia.org/wiki/Kingpin"
     },
 
     {
         "nome": "Shocker",
-        "primeira aparição": "1967 - The Amazing Spider-Man #46",
+        "aparição": "1967 - The Amazing Spider-Man #46",
         "descrição": "Herman Schultz, inventor de luvas que geram ondas de choque; um antagonista recorrente que aposta em ataques de curto alcance e tecnologia.",
-        "criador(es)": "Stan Lee e John Romita Sr.",
+        "criador": "Stan Lee e John Romita Sr.",
         "link": "https://pt.wikipedia.org/wiki/Shocker"
     },
-    
+
     {
         "nome": "Venom",
-        "primeira aparição": "1988 - The Amazing Spider-Man #300 (como Venom)",
+        "aparição": "1988 - The Amazing Spider-Man #300 (como Venom)",
         "descrição": "Simbionte que, em combinação com Eddie Brock (entre outros hospedeiros), forma um antagonista com força sobre-humana e ódio pessoal pelo Aranha.",
-        "criador(es)": "David Michelinie e Todd McFarlane",
+        "criador": "David Michelinie e Todd McFarlane",
         "link": "https://pt.wikipedia.org/wiki/Venom"
     }
 ]
