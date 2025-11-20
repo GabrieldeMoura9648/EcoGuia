@@ -1,4 +1,8 @@
 # Imersão-Dev-com-Google-Gemini-10-Edição
 
 
-Palavras chave: aprender
+Palavras chave: 
+1 aprender 
+2 na alura 
+3 
+4
