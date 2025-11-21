@@ -46,7 +46,6 @@ async function iniciarBusca() {
     }
 
     // renderiza os cards com os resultados obtidos
-    // Passamos input.value para usar o texto original na mensagem de erro
     renderizarCards(resultados, input.value); 
 }
 
@@ -84,15 +83,24 @@ function renderizarCards(dados, termoOriginal = '') {
         cardContainer.appendChild(article);
     }
 }
+
 // Estrutura de busca
 document.addEventListener('DOMContentLoaded', () => {
     
     iniciarBusca();  //1. Inicia a busca (carrega e exibe todos os cards na abertura)
 
     const inputBusca = document.querySelector('input[type="text"]');
-    
-    if (inputBusca) {
- 
-        inputBusca.addEventListener('input', iniciarBusca); //2. BUSCA AUTOMÁTICA (ao digitar ou apagar)
-    }
+
+    //Buscar ao pressionar ENTER
+    inputBusca.addEventListener('keydown', (event) => {
+        if (event.key === "Enter") {
+            iniciarBusca();
+        }
+    });
 });
+
+function resetarBusca() {
+    const input = document.querySelector('input[type="text"]');
+    input.value = "";       // limpa o campo de busca
+    iniciarBusca();         // chama a busca sem termo → retorna lista completa
+}
