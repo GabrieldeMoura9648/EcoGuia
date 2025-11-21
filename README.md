@@ -19,18 +19,27 @@ Uma aplicação web interativa que ensina como descartar corretamente diversos t
 
 ---
 
+## 🌱 Impacto e Objetivo
+
+O EcoGuia promove **consciência ambiental** e facilita o descarte correto de resíduos, ajudando a **reduzir a poluição**, incentivar a **reciclagem** e educar cidadãos sobre práticas sustentáveis.
+
+---
+
+## 🎯 Diferenciais do Projeto
+
+- Funcionalidade de busca rápida e precisa  
+- Foco em **educação ambiental no contexto brasileiro**  
+- Interface limpa, moderna e acessível  
+- Totalmente front-end, fácil de hospedar e compartilhar
+
+---
+
 ## 💡 Como Usar
 
 1. **Acesse a Aplicação:** [EcoGuia no GitHub Pages](https://gabrieldemoura9648.github.io/EcoGuia/)
 2. **Pesquise o Item:** Digite o nome do resíduo na barra de busca.
 3. **Visualize as Instruções:** Veja o tipo de resíduo, como descartá-lo corretamente e uma curiosidade relevante.
 4. **Encontre Pontos de Coleta:** Clique no link "Como descartar" para pesquisar locais próximos.
-
----
-
-## 🌱 Impacto e Objetivo
-
-O EcoGuia promove **consciência ambiental** e facilita o descarte correto de resíduos, ajudando a **reduzir a poluição**, incentivar a **reciclagem** e educar cidadãos sobre práticas sustentáveis.
 
 ---
 
@@ -58,11 +67,4 @@ O EcoGuia promove **consciência ambiental** e facilita o descarte correto de re
 - Repositório GitHub: [https://github.com/GabrieldeMoura9648/EcoGuia](https://github.com/GabrieldeMoura9648/EcoGuia)  
 - Projeto Online: [https://gabrieldemoura9648.github.io/EcoGuia/](https://gabrieldemoura9648.github.io/EcoGuia/)
 
----
-
-## 🎯 Diferenciais do Projeto
-
-- Funcionalidade de busca rápida e precisa  
-- Foco em **educação ambiental no contexto brasileiro**  
-- Interface limpa, moderna e acessível  
-- Totalmente front-end, fácil de hospedar e compartilhar  
+  
