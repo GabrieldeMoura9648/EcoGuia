@@ -1,0 +1,464 @@
+[
+  {
+    "nome": "Celular / Smartphone",
+    "tipo": "Eletrônico",
+    "descricao": "Remova chip/SD e apague dados; Entregue em pontos de coleta de e‑lixo ou lojas que fazem logística reversa, não jogar no lixo comum.",
+    "curiosidade": "Contém metais valiosos e tóxicos (ex.: lítio, cádmio).",
+    "link": "https://www.google.com/search?q=descarte+celular+e-lixo+Brasil"
+  },
+  {
+    "nome": "Computador e Periféricos",
+    "tipo": "Eletrônico",
+    "descricao": "Levar a pontos de coleta de eletrônicos ou programas de logística reversa; Separar cabos e baterias e apague seus dados pessoais.",
+    "curiosidade": "Muitos componentes podem ser reaproveitados e reciclados.",
+    "link": "https://www.google.com/search?q=descarte+computador+e-lixo+Brasil"
+  },
+  {
+    "nome": "Televisão (CRT/LED)",
+    "tipo": "Eletrônico",
+    "descricao": "Entregar em pontos de coleta especializados; CRTs são perigosos — não quebrar — fabricantes/recicladores recebem TVs.",
+    "curiosidade": "CRTs contêm chumbo e precisam de tratamento especial.",
+    "link": "https://www.google.com/search?q=descarte+televisao+e-lixo+Brasil"
+  },
+  {
+    "nome": "Pilhas e Baterias (portáteis)",
+    "tipo": "Perigoso",
+    "descricao": "Nunca jogue no lixo comum, entregue em pontos de coleta (farmácias, supermercados) ou retorne ao fabricante (logística reversa).",
+    "curiosidade": "Podem contaminar por décadas com seus metais pesados.",
+    "link": "https://www.google.com/search?q=descarte+pilhas+baterias+Brasil"
+  },
+  {
+    "nome": "Lâmpadas Fluorescentes e CFL",
+    "tipo": "Perigoso",
+    "descricao": "Não quebrar; Guarde em embalagem segura e leve a pontos de coleta de resíduos perigosos ou eletrônicos.",
+    "curiosidade": "Contêm pequenas quantidades de mercúrio.",
+    "link": "https://www.google.com/search?q=descarte+l%C3%A2mpadas+fluorescentes+Brasil"
+  },
+  {
+    "nome": "Lâmpadas LED",
+    "tipo": "Eletrônico",
+    "descricao": "Levar a pontos de coleta de eletrônicos ou postos de troca; Não jogar no lixo comum devido a componentes eletrônicos.",
+    "curiosidade": "Duram muito mais, mas têm componentes eletrônicos que exigem reciclagem.",
+    "link": "https://www.google.com/search?q=descarte+l%C3%A2mpada+led+Brasil"
+  },
+  {
+    "nome": "Óleo de Cozinha Usado",
+    "tipo": "Orgânico",
+    "descricao": "Deixe esfriar, coe e coloque em garrafa PET fechada; Leve a pontos de coleta ou campanhas de reciclagem de óleo.",
+    "curiosidade": "1 litro de óleo contamina até 25 mil litros de água.",
+    "link": "https://www.google.com/search?q=descarte+oleo+de+cozinha+Brasil"
+  },
+  {
+    "nome": "Fraldas Descartáveis",
+    "tipo": "Rejeito",
+    "descricao": "Não recicláveis; Embalar bem e descartar no lixo comum/orgânico-residual destinado a aterro; evitar jogar na natureza.",
+    "curiosidade": "Tempo de decomposição varia de dezenas a centenas de anos.",
+    "link": "https://www.google.com/search?q=descarte+fraldas+descartaveis+Brasil"
+  },
+  {
+    "nome": "Caixa de Pizza (Engordurada)",
+    "tipo": "Papel",
+    "descricao": "Parte engordurada vai para o lixo comum/orgânico; tampas limpas podem ser recicladas com papelão, rasgue as partes sujas.",
+    "curiosidade": "Gordura contamina a fibra do papel e atrapalha a reciclagem.",
+    "link": "https://www.google.com/search?q=descarte+caixa+de+pizza+engordurada+Brasil"
+  },
+  {
+    "nome": "Copos Descartáveis e Isopor (EPS)",
+    "tipo": "Plástico",
+    "descricao": "Copos sujos não são recicláveis; Isopor deve ser levado a pontos que aceitam EPS; sempre reduzir e reutilizar quando possível.",
+    "curiosidade": "EPS é volumoso e difícil de reciclar em muitos municípios.",
+    "link": "https://www.google.com/search?q=descarte+copos+descartaveis+isopor+Brasil"
+  },
+  {
+    "nome": "Embalagens Longa Vida (Tetra Pak)",
+    "tipo": "Plástico/Multicamadas",
+    "descricao": "Enxaguar e levar a pontos de coleta seletiva/reciclagem que processam multicamadas; em alguns locais entra na coleta de papel.",
+    "curiosidade": "Compostas por papel, plástico e alumínio — exigem reciclagem específica.",
+    "link": "https://www.google.com/search?q=descarte+tetra+pak+Brasil"
+  },
+  {
+    "nome": "Garrafa PET",
+    "tipo": "Plástico",
+    "descricao": "Esvaziar, amassar para economizar espaço e fechar com a tampa; colocar na coleta seletiva ou pontos de entrega.",
+    "curiosidade": "O tempo de decomposição leva por volta de 400 anos; 100% reciclável.",
+    "link": "https://www.google.com/search?q=descarte+garrafa+pet+Brasil"
+  },
+  {
+    "nome": "Sacolas Plásticas",
+    "tipo": "Plástico",
+    "descricao": "Reutilizar; Entregar em pontos de coleta quando disponíveis e não deixá-las soltas na natureza.",
+    "curiosidade": "O tempo de decomposição varia de décadas a centenas de anos.",
+    "link": "https://www.google.com/search?q=descarte+sacolas+plasticas+Brasil"
+  },
+  {
+    "nome": "Latas de Alumínio",
+    "tipo": "Metal",
+    "descricao": "Esvaziar, amassar se possível e depositar na coleta seletiva ou levar a centrais de reciclagem; Alta taxa de reciclagem.",
+    "curiosidade": "Alumínio é reciclável indefinidamente com grande economia de energia.",
+    "link": "https://www.google.com/search?q=descarte+latas+de+aluminio+Brasil"
+  },
+  {
+    "nome": "Papel e Papelão",
+    "tipo": "Papel",
+    "descricao": "Limpar de sujeiras e óleos, dobrar e colocar na coleta seletiva; papel muito sujo vai para o rejeito/compostagem industrial.",
+    "curiosidade": "Reciclar papel economiza água e árvores.",
+    "link": "https://www.google.com/search?q=descarte+papel+papelao+Brasil"
+  },
+  {
+    "nome": "Vidro (garrafas e frascos)",
+    "tipo": "Vidro",
+    "descricao": "Esvaziar, enxaguar se possível e separar por cor quando solicitado; levar à coleta seletiva ou pontos de entrega.",
+    "curiosidade": "Vidro pode ser reciclado infinitamente sem perda de qualidade.",
+    "link": "https://www.google.com/search?q=descarte+vidro+Brasil"
+  },
+  {
+    "nome": "Espelhos e Vidros Planos",
+    "tipo": "Vidro",
+    "descricao": "Não misturar com vidro de embalagem; Levar a pontos específicos de coleta de vidros ou caçambas de entulho e os quebrados embalar com segurança.",
+    "curiosidade": "Tratamentos e camadas especiais impedem reciclagem junto ao vidro comum.",
+    "link": "https://www.google.com/search?q=descarte+espelhos+vidros+planos+Brasil"
+  },
+  {
+    "nome": "Pneus",
+    "tipo": "Entulho/Perigoso",
+    "descricao": "Levar a postos de coleta especializados, borracharias ou programas como o Reciclanip; Não queimar nem descartar na natureza.",
+    "curiosidade": "Pneus podem ser reutilizados em projetos e transformados em asfalto borracha.",
+    "link": "https://www.google.com/search?q=descarte+pneus+Brasil+Reciclanip"
+  },
+  {
+    "nome": "Entulho e Resíduos da Construção Civil",
+    "tipo": "Entulho e resíduos da construção civil",
+    "descricao": "Separar por tipo (madeira, metal, gesso, inertes) e contratar caçamba ou levar a pontos de entrega autorizados; Seguir normas municipais.",
+    "curiosidade": "Muitos materiais podem ser reciclados ou reutilizados se separados corretamente.",
+    "link": "https://www.google.com/search?q=descarte+entulho+residuos+construcao+civil+Brasil"
+  },
+  {
+    "nome": "Tintas, Solventes e Vernizes",
+    "tipo": "Perigoso",
+    "descricao": "Não jogar no ralo; levar a pontos de coleta de resíduos perigosos ou campanhas de recolhimento; secar resto de tinta com serragem só se orientado.",
+    "curiosidade": "Componentes são tóxicos e exigem tratamento especial.",
+    "link": "https://www.google.com/search?q=descarte+tintas+solventes+Brasil"
+  },
+  {
+    "nome": "Medicamentos Vencidos",
+    "tipo": "Perigoso",
+    "descricao": "Entregar em pontos de coleta de farmácias ou campanhas municipais; não jogar em ralos ou lixo comum.",
+    "curiosidade": "Fármacos no meio ambiente afetam fauna aquática e contaminam a água.",
+    "link": "https://www.google.com/search?q=descarte+medicamentos+vencidos+Brasil"
+  },
+  {
+    "nome": "Agulhas e Materiais Perfurocortantes (domésticos)",
+    "tipo": "Perigoso",
+    "descricao": "Guardar em recipiente rígido, identificar e levar a postos de saúde ou pontos de coleta específicos; não colocar soltas no lixo.",
+    "curiosidade": "Risco de contaminação e acidentes para coletores.",
+    "link": "https://www.google.com/search?q=descarte+agulhas+perfurocortantes+Brasil"
+  },
+  {
+    "nome": "Roupas e Têxteis",
+    "tipo": "Têxtil",
+    "descricao": "Doar se em bom estado; separar para reutilização ou levar a pontos de coleta têxtil; itens muito danificados viram rags ou rejeito.",
+    "curiosidade": "Setor têxtil gera grande volume de resíduo — doação aumenta vida útil.",
+    "link": "https://www.google.com/search?q=descarte+roupas+tecidos+Brasil"
+  },
+  {
+    "nome": "Isopor (EPS)",
+    "tipo": "Plástico",
+    "descricao": "Evitar uso; quando necessário, separar limpo e levar a pontos que aceitam EPS, pois nem todo município recicla isopor.",
+    "curiosidade": "Volumoso e de baixa densidade, gera custos logísticos elevados.",
+    "link": "https://www.google.com/search?q=descarte+isopor+eps+Brasil"
+  },
+  {
+    "nome": "Restos de Poda e Jardinagem",
+    "tipo": "Orgânico",
+    "descricao": "Compostar em casa ou levar a ecopontos/compostagem municipal; evitar queimar e misturar com recicláveis.",
+    "curiosidade": "Ótimos para compostagem e **ajudam** a reduzir resíduos enviados a aterros.",
+    "link": "https://www.google.com/search?q=descarte+restos+poda+jardinagem+Brasil"
+  },
+  {
+    "nome": "Restos de Comida",
+    "tipo": "Orgânico",
+    "descricao": "Separar para compostagem doméstica ou coleta de orgânicos; não misturar com recicláveis e evitar despejar em locais impróprios.",
+    "curiosidade": "Em aterros geram metano, gás de efeito estufa.",
+    "link": "https://www.google.com/search?q=descarte+restos+de+comida+compostagem+Brasil"
+  },
+  {
+    "nome": "Cerâmica e Porcelana",
+    "tipo": "Rejeito",
+    "descricao": "Não misturar com vidro de embalagem; embalar e levar a pontos de entulho ou descarte em aterro conforme regras municipais.",
+    "curiosidade": "Não são recicláveis junto ao vidro comum por diferença de composição.",
+    "link": "https://www.google.com/search?q=descarte+ceramica+porcelana+Brasil"
+  },
+  {
+    "nome": "Óleo Lubrificante e Óleo de Motor",
+    "tipo": "Perigoso",
+    "descricao": "Levar a postos de coleta automotiva, oficinas ou pontos de troca de óleo; nunca descartar no solo, ralos ou lixo comum.",
+    "curiosidade": "Altamente contaminante e persistente no ambiente.",
+    "link": "https://www.google.com/search?q=descarte+oleo+de+motor+Brasil"
+  },
+  {
+    "nome": "CDs e DVDs",
+    "tipo": "Plástico/Eletrônico",
+    "descricao": "Levar a pontos de coleta de eletrônicos ou reciclagem de plásticos específicos; não jogar no lixo comum quando houver alternativa.",
+    "curiosidade": "São polímeros com camada refletiva metálica, dificultando reciclagem comum.",
+    "link": "https://www.google.com/search?q=descarte+cd+dvd+Brasil"
+  },
+  {
+    "nome": "Embalagens de Produtos de Limpeza (resíduos líquidos)",
+    "tipo": "Perigoso",
+    "descricao": "Enxaguar conforme orientação, amassar e levar embalagens vazias à reciclagem; restos de produto levar a pontos de resíduos perigosos.",
+    "curiosidade": "Resíduos químicos exigem tratamento para não contaminar água e solo.",
+    "link": "https://www.google.com/search?q=descarte+embalagens+produtos+de+limpeza+Brasil"
+  },
+  {
+    "nome": "Óculos (Armações e Lentes)",
+    "tipo": "Multimaterial",
+    "descricao": "Armações em bom estado podem ser doadas. As quebradas (plástico/metal) devem ser levadas a programas de reciclagem de óticas ou centros de coleta de lixo eletrônico.",
+    "curiosidade": "As lentes de grau não são recicladas no fluxo comum de vidro/plástico.",
+    "link": "https://www.google.com/search?q=descarte+de+armacoes+e+lentes+de+oculos+Brasil"
+  },
+  {
+    "nome": "Móveis Velhos e Madeira",
+    "tipo": "Entulho/Volumoso",
+    "descricao": "Não descarte em lixeiras comuns. Agende a coleta municipal (cata-treco) ou leve a um Ecoponto/Ponto de Entrega Voluntária (PEV) de sua cidade.",
+    "curiosidade": "Madeira maciça pode ser reutilizada ou reciclada; compensados e aglomerados costumam ser rejeitos.",
+    "link": "https://www.google.com/search?q=descarte+de+moveis+velhos+Brasil"
+  },
+  {
+    "nome": "Eletrodomésticos (Geladeira, Fogão, Máquina de Lavar)",
+    "tipo": "Eletrônico/Volumoso",
+    "descricao": "Entre em contato com o fabricante para logística reversa, leve a um PEV que aceite grandes volumes ou a um reciclador especializado. Nunca descarte na rua.",
+    "curiosidade": "Geladeiras e freezers contêm gases refrigerantes que precisam ser removidos de forma segura para não danificar a camada de ozônio.",
+    "link": "https://www.google.com/search?q=descarte+eletrodomesticos+linha+branca+Brasil"
+  },
+  {
+    "nome": "Cápsulas de Café",
+    "tipo": "Plástico/Alumínio",
+    "descricao": "Armazene as cápsulas usadas e entregue nos pontos de coleta das próprias marcas ou em ecopontos que aceitam multicamadas.",
+    "curiosidade": "São compostas por plástico, alumínio e resíduos de café; exigem reciclagem específica.",
+    "link": "https://www.google.com/search?q=descarte+capsulas+de+cafe+Brasil"
+  },
+  {
+    "nome": "Cartuchos e Toners",
+    "tipo": "Perigoso/Eletrônico",
+    "descricao": "Armazene fechados e leve a lojas, fabricantes ou programas de logística reversa. Não perfure e não descarte no lixo comum.",
+    "curiosidade": "Contêm tinta e pó que podem ser tóxicos ao meio ambiente.",
+    "link": "https://www.google.com/search?q=descarte+cartucho+toner+Brasil"
+  },
+  {
+    "nome": "Esponjas de Cozinha",
+    "tipo": "Rejeito/Programa Específico",
+    "descricao": "Descartar como rejeito se estiver muito usada. Algumas empresas oferecem programas de reciclagem específicos.",
+    "curiosidade": "Não são recicláveis na coleta seletiva comum.",
+    "link": "https://www.google.com/search?q=descarte+esponja+de+cozinha+Brasil"
+  },
+  {
+    "nome": "Cartelas de Remédios",
+    "tipo": "Perigoso/Multimaterial",
+    "descricao": "Leve a farmácias e postos de coleta que possuem logística reversa de medicamentos e embalagens.",
+    "curiosidade": "São compostos por plástico e alumínio; exigem reciclagem específica.",
+    "link": "https://www.google.com/search?q=descarte+blister+remedios+Brasil"
+  },
+  {
+    "nome": "Fios e Cabos Elétricos",
+    "tipo": "Eletrônico/Perigoso",
+    "descricao": "Leve a pontos de coleta de eletrônicos ou recicladores especializados. Não jogue no lixo comum.",
+    "curiosidade": "Contêm metais valiosos como cobre e alumínio, além de materiais plásticos.",
+    "link": "https://www.google.com/search?q=descarte+fios+cabos+eletricos+Brasil"
+  },
+  {
+    "nome": "Aerossóis (sprays)",
+    "tipo": "Metal/Perigoso",
+    "descricao": "Descartar somente após esvaziar totalmente. Envie à reciclagem de metais ou a pontos de coleta adequados.",
+    "curiosidade": "Podem explodir quando prensados se contiverem pressão interna.",
+    "link": "https://www.google.com/search?q=descarte+aerossois+spray+Brasil"
+  },
+  {
+    "nome": "Itens de Higiene Pessoal",
+    "tipo": "Rejeito",
+    "descricao": "Descartar no lixo comum destinado a aterro. Programas específicos de reciclagem podem existir em algumas regiões.",
+    "curiosidade": "Não são recicláveis pela coleta seletiva tradicional.",
+    "link": "https://www.google.com/search?q=descarte+itens+higiene+pessoal+Brasil"
+  },
+  {
+    "nome": "Filtro de Água (Refil/Elemento Filtrante)",
+    "tipo": "Plástico Misto/Resíduo Sólido",
+    "descricao": "Desmonte o refil, se possível. Partes plásticas limpas no reciclável; o elemento filtrante sujo (carvão/polipropileno) deve ir para o lixo comum. Verifique a logística reversa da marca.",
+    "curiosidade": "O carvão ativado presente em muitos filtros pode ser recuperado, mas o descarte é complexo devido à mistura de materiais e contaminação.",
+    "link": "https://www.google.com/search?q=descarte+filtro+de+agua+refil+Brasil"
+  },
+  {
+    "nome": "Brinquedos Plásticos Quebrados",
+    "tipo": "Plástico/Resíduo Misto",
+    "descricao": "Se for predominantemente plástico e limpo, encaminhe para a coleta seletiva de plásticos. Se tiver partes eletrônicas ou metálicas complexas, desmonte e separe ou leve a um ecoponto.",
+    "curiosidade": "Muitos brinquedos são feitos de plásticos de baixa qualidade (mix de resinas) ou contêm pequenas peças metálicas, dificultando o processo de triagem e reciclagem.",
+    "link": "https://www.google.com/search?q=descarte+brinquedos+plasticos+quebrados+Brasil"
+  },
+  {
+    "nome": "Baterias Automotivas (Chumbo-ácido)",
+    "tipo": "Perigoso/Logística Reversa",
+    "descricao": "Entregue em postos de coleta específicos, oficinas mecânicas ou revendedores. A lei obriga a logística reversa devido ao alto risco ambiental do chumbo e ácido.",
+    "curiosidade": "As baterias de chumbo-ácido têm uma taxa de reciclagem muito alta no Brasil, pois o chumbo e o ácido sulfúrico são materiais valiosos na cadeia produtiva.",
+    "link": "https://www.google.com/search?q=descarte+baterias+automotivas+Brasil"
+  },
+  {
+    "nome": "Termômetros de Mercúrio",
+    "tipo": "Resíduo Perigoso",
+    "descricao": "NUNCA descarte no lixo comum ou no ralo. Leve a uma Unidade Básica de Saúde (UBS) ou ponto de coleta especial que trate resíduos perigosos para evitar contaminação.",
+    "curiosidade": "O mercúrio é um metal pesado altamente tóxico que pode causar danos neurológicos. Seu uso em termômetros foi proibido no Brasil em 2019.",
+    "link": "https://www.google.com/search?q=descarte+termometros+mercurio+Brasil"
+  },
+  {
+    "nome": "Adesivos e Etiquetas (Papel e Plástico)",
+    "tipo": "Rejeito",
+    "descricao": "Devido à cola, que contamina o processo de reciclagem, a maioria dos adesivos e etiquetas deve ser descartada no lixo comum (rejeito).",
+    "curiosidade": "A cola (adesivo) dificulta a separação da fibra ou polímero na reciclagem, resultando em um material de baixa qualidade no processo.",
+    "link": "https://www.google.com/search?q=descarte+adesivos+etiquetas+papel+Brasil"
+  },
+  {
+    "nome": "Esponjas de Aço (Lã de Aço)",
+    "tipo": "Metal Não Reciclável (se sujas)",
+    "descricao": "Se estiverem muito enferrujadas ou contaminadas com gordura, descarte no lixo comum. Se estiverem secas e limpas, podem ser agrupadas e enviadas junto aos metais, mas muitas cooperativas as rejeitam devido ao pequeno porte.",
+    "curiosidade": "Por serem feitas de ferro, elas se oxidam rapidamente. Em alguns municípios, são consideradas rejeito, enquanto em outros, podem ser aceitas em sacos vedados.",
+    "link": "https://www.google.com/search?q=descarte+esponja+de+aco+Brasil"
+  },
+  {
+    "nome": "Panelas Antiaderentes (desgastadas)",
+    "tipo": "Metal Misto/Rejeito",
+    "descricao": "Separe cabos plásticos ou de madeira. O corpo metálico deve ser descartado na coleta seletiva de metais. O revestimento antiaderente dificulta a pureza do metal reciclado.",
+    "curiosidade": "O revestimento antiaderente (Teflon) se degrada ao longo do tempo e pode liberar substâncias quando superaquecido, sendo a substituição por novas panelas indicada.",
+    "link": "https://www.google.com/search?q=descarte+panelas+antiaderentes+velhas+Brasil"
+  },
+  {
+    "nome": "Produtos Químicos de Limpeza (Sólidos Secos)",
+    "tipo": "Rejeito",
+    "descricao": "Se estiverem em pó ou sólidos e não puderem ser utilizados, descarte em sacos plásticos bem vedados no lixo comum (rejeito). Nunca misture com água.",
+    "curiosidade": "Produtos químicos em pó, como alguns desentupidores, podem ser perigosos se reagirem com a umidade no aterro, devendo ser descartados com cautela e vedados.",
+    "link": "https://www.google.com/search?q=descarte+produtos+quimicos+limpeza+Brasil"
+  },
+  {
+    "nome": "Filtros de Cigarro (Bitucas)",
+    "tipo": "Rejeito Tóxico",
+    "descricao": "Descarte no lixo comum, preferencialmente em local seguro e fechado para evitar incêndios. NUNCA jogue no chão, esgoto ou privada.",
+    "curiosidade": "A bituca é composta principalmente por acetato de celulose, um plástico que leva décadas para se decompor, liberando substâncias tóxicas, como nicotina e metais pesados.",
+    "link": "https://www.google.com/search?q=descarte+filtros+cigarro+bitucas+Brasil"
+  },
+  {
+    "nome": "Seringas de Insulina e Lancetas",
+    "tipo": "Perfurocortante Especial",
+    "descricao": "Guardar em recipiente rígido (como garrafa PET ou lata) com tampa e vedado, identificado como 'PERFUROCORTANTE'. Entregue em postos de saúde ou farmácias.",
+    "curiosidade": "O descarte inadequado de seringas é um risco biológico grave para coletores e operadores de triagem, sendo o acondicionamento seguro essencial.",
+    "link": "https://www.google.com/search?q=descarte+seringas+insulina+lancetas+Brasil"
+  },
+  {
+    "nome": "Extintores de Incêndio Vencidos",
+    "tipo": "Pressurizado/Resíduo Especial",
+    "descricao": "Devem ser encaminhados para empresas especializadas em recarga ou manutenção de extintores. Eles se responsabilizam pelo descarte seguro do casco metálico e agente extintor.",
+    "curiosidade": "O pó químico (agente extintor) não é um resíduo inerte e deve ser manuseado corretamente, assim como o gás pressurizado e o metal do casco.",
+    "link": "https://www.google.com/search?q=descarte+extintores+incendio+vencidos+Brasil"
+  },
+  {
+    "nome": "Disquetes e Fitas Magnéticas (VHS/K7)",
+    "tipo": "E-Lixo/Resíduo Misto",
+    "descricao": "Descarte em pontos de coleta de e-lixo ou em ecopontos. Contêm plásticos e fitas magnéticas que dificultam a reciclagem padrão de plásticos.",
+    "curiosidade": "As fitas magnéticas contêm óxido de ferro ou outros materiais metálicos que precisam ser separados do invólucro plástico durante o processo de reciclagem.",
+    "link": "https://www.google.com/search?q=descarte+disquetes+fitas+magneticas+vhs+Brasil"
+  },
+  {
+    "nome": "Cortinas e Persianas",
+    "tipo": "Resíduo Misto/Volumoso",
+    "descricao": "Se estiverem em bom estado, considere doação. Persianas de PVC ou metal podem ser desmontadas. Partes grandes e volumosas devem ser levadas a ecopontos.",
+    "curiosidade": "Persianas e cortinas são resíduos complexos devido à mistura de materiais (metal, plástico, tecido, pesos e mecanismos).",
+    "link": "https://www.google.com/search?q=descarte+cortinas+persianas+velhas+Brasil"
+  },
+  {
+    "nome": "Materiais de Escritório (Clips, Grampos, Pequenos Metais)",
+    "tipo": "Metal Reciclável (Pequeno)",
+    "descricao": "Acumule grandes quantidades desses pequenos metais e descarte junto com o metal reciclável, preferencialmente dentro de uma lata fechada para evitar perdas na triagem.",
+    "curiosidade": "Embora sejam recicláveis, a perda desses pequenos itens durante a triagem é alta. O agrupamento aumenta a chance de serem processados.",
+    "link": "https://www.google.com/search?q=descarte+materiais+escritorio+clips+metal+Brasil"
+  },
+  {
+    "nome": "Equipamentos de Academia (Pesos, Esteiras Quebradas)",
+    "tipo": "Metais/Resíduo Volumoso",
+    "descricao": "Por serem volumosos e pesados, devem ser agendados para coleta de volumosos municipal ou levados a ecopontos. A parte metálica é altamente reciclável.",
+    "curiosidade": "O metal presente em halteres e estruturas de máquinas de academia é geralmente de alta qualidade e muito procurado na cadeia de reciclagem de sucata ferrosa.",
+    "link": "https://www.google.com/search?q=descarte+equipamentos+academia+velhos+Brasil"
+  },
+  {
+    "nome": "Embalagens Plásticas de Higiene (Shampoo, Condicionador)",
+    "tipo": "Plástico Reciclável",
+    "descricao": "Lave e seque bem as embalagens para remover o resíduo químico e o óleo. Descarte na coleta seletiva de plásticos.",
+    "curiosidade": "A lavagem é crucial. Resíduos de produtos de higiene, como óleos e cremes, podem contaminar lotes inteiros de plástico reciclável, comprometendo a qualidade.",
+    "link": "https://www.google.com/search?q=descarte+embalagens+plasticas+higiene+shampoo+Brasil"
+  },
+  {
+    "nome": "Escovas de Dente Plásticas",
+    "tipo": "Rejeito/Plástico Misto",
+    "descricao": "Devido à mistura de plásticos e as cerdas (nylon), a maioria das cooperativas as considera rejeito e devem ir para o lixo comum. Verifique programas de logística reversa de fabricantes.",
+    "curiosidade": "As cerdas de nylon e o cabo geralmente são feitos de materiais plásticos diferentes, tornando a reciclagem por meios convencionais muito difícil.",
+    "link": "https://www.google.com/search?q=descarte+escovas+de+dente+plasticas+Brasil"
+  },
+  {
+    "nome": "Lâminas de Barbear e Aparelhos Descartáveis",
+    "tipo": "Perfurocortante Misto",
+    "descricao": "Coloque em um recipiente rígido (como uma garrafa PET ou lata) e vedado para evitar cortes. Descarte no lixo comum ou em postos de coleta especiais, dependendo da regulamentação local.",
+    "curiosidade": "O risco de cortes para os coletores e triadores exige o acondicionamento seguro, mesmo que o item vá para o rejeito, para proteger a saúde pública.",
+    "link": "https://www.google.com/search?q=descarte+laminas+barbear+aparelhos+descartaveis+Brasil"
+  },
+  {
+    "nome": "Velas (Cera e Parafina)",
+    "tipo": "Resíduo Orgânico/Rejeito",
+    "descricao": "Descarte no lixo comum (rejeito). Se for cera pura ou parafina limpa, pesquise por associações e artesãos que reutilizam o material para fazer novas velas.",
+    "curiosidade": "A parafina é um subproduto do petróleo. Embora não seja facilmente reciclada pelas cooperativas tradicionais, pode ser reutilizada em processos artesanais.",
+    "link": "https://www.google.com/search?q=descarte+velas+cera+parafina+Brasil"
+  },
+  {
+    "nome": "Rolhas de Vinho (Cortiça e Sintéticas)",
+    "tipo": "Orgânico/Plástico/Reciclagem Especializada",
+    "descricao": "Rolhas de cortiça natural podem ser compostadas ou encaminhadas para programas de reciclagem de cortiça. Rolhas sintéticas (plástico) vão para a coleta seletiva de plásticos, se limpas.",
+    "curiosidade": "A cortiça é um material 100% natural, vindo da casca do sobreiro, e pode ser transformada em revestimentos, materiais de isolamento ou decorativos.",
+    "link": "https://www.google.com/search?q=descarte+rolhas+vinho+cortica+Brasil"
+  },
+  {
+    "nome": "Lonas e Tecidos de Publicidade (Banners de PVC)",
+    "tipo": "Plástico (PVC)/Reutilização",
+    "descricao": "O ideal é buscar empresas ou ONGs que reutilizam o material (upcycling) para confecção de bolsas, estojos e ecobags, devido à dificuldade de reciclagem padrão de PVC.",
+    "curiosidade": "O PVC é reciclável, mas o processo é mais caro e complexo que outros plásticos, por isso a reutilização criativa é a opção preferencial para banners promocionais.",
+    "link": "https://www.google.com/search?q=descarte+lonas+tecidos+publicidade+banners+Brasil"
+  },
+  {
+    "nome": "Cabides de Plástico ou Metal",
+    "tipo": "Plástico/Metal Reciclável",
+    "descricao": "Cabides de plástico devem ir para a coleta seletiva de plásticos. Cabides de metal (arame) devem ser agrupados e descartados com metais. Descarte cuidadosamente se estiverem quebrados.",
+    "curiosidade": "Cabides de arame são feitos de metal de baixa qualidade, mas ainda assim são recicláveis. O descarte em grandes quantidades facilita o processo nas cooperativas.",
+    "link": "https://www.google.com/search?q=descarte+cabides+plastico+metal+Brasil"
+  },
+  {
+    "nome": "Utensílios de Cozinha de Silicone",
+    "tipo": "Rejeito Especial",
+    "descricao": "O silicone não é aceito na reciclagem de plásticos ou borrachas convencionais. Deve ser descartado no lixo comum (rejeito).",
+    "curiosidade": "O silicone é um polímero sintético baseado em silício. Sua estrutura o torna resistente, mas difícil de reciclar junto aos plásticos comuns.",
+    "link": "https://www.google.com/search?q=descarte+utensilios+cozinha+silicone+Brasil"
+  },
+  {
+    "nome": "Resíduos de Aspirador de Pó",
+    "tipo": "Rejeito",
+    "descricao": "O conteúdo dos sacos ou reservatórios de aspirador de pó (poeira, cabelos, ácaros) deve ser descartado diretamente no lixo comum, pois não é reciclável.",
+    "curiosidade": "A poeira doméstica é uma complexa mistura de materiais orgânicos e inorgânicos. É classificada como rejeito e deve ser encaminhada diretamente ao aterro sanitário.",
+    "link": "https://www.google.com/search?q=descarte+residuos+aspirador+po+Brasil"
+  },
+  {
+    "nome": "Embalagens de Maquiagem (Frascos, Potes)",
+    "tipo": "Plástico Misto/Vidro/Logística Reversa",
+    "descricao": "Limpe bem. Frascos de vidro podem ir para o vidro reciclável. Plásticos e compactos devem ser levados a programas de logística reversa oferecidos por fabricantes de cosméticos.",
+    "curiosidade": "Pequenos espelhos e as misturas de plástico/metal nas embalagens de maquiagem dificultam a reciclagem padrão, por isso a preferência pela logística reversa.",
+    "link": "https://www.google.com/search?q=descarte+embalagens+maquiagem+Brasil"
+  },
+  {
+  "nome": "Luvas (Descartáveis, Borracha, Látex)",
+  "tipo": "Rejeito / Plástico Misto",
+  "descricao": "Luvas de borracha, vinil, nitrílica e látex usadas ou contaminadas devem ser descartadas no lixo comum (rejeito), bem vedadas. Luvas de tecido/malha em bom estado podem ser doadas ou levadas à coleta de têxteis.",
+  "curiosidade": "Luvas são frequentemente consideradas rejeito devido à contaminação ou à complexidade dos materiais mistos que dificultam a reciclagem padrão.",
+  "link": "https://www.google.com/search?q=descarte+luvas+descartaveis+Brasil"
+  }
+]
