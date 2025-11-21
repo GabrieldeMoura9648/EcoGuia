@@ -4,5 +4,5 @@
 Palavras chave: 
 1 aprender 
 2 na alura 
-3 
-4
+3 com ia
+4 google
