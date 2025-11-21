@@ -1,26 +1,68 @@
-## 🌿 EcoGuia - Descarte Consciente: Sua Biblioteca de Reciclagem
+# 🌿 EcoGuia - Descarte Consciente
 
-O **EcoGuia - Descarte Consciente** é um projeto de aplicação web simples e rápida, desenvolvida em HTML, CSS e JavaScript puro, que serve como uma **base de conhecimento** interativa para o descarte correto de diversos tipos de resíduos no contexto brasileiro.
+Uma aplicação web interativa que ensina como descartar corretamente diversos tipos de resíduos no Brasil, combinando **educação ambiental** e **praticidade**.
 
-Este projeto visa educar e facilitar a vida do cidadão, oferecendo orientações claras sobre como destinar corretamente itens que vão desde **lixo eletrônico** (pilhas, celulares) e **resíduos perigosos** (medicamentos, lâmpadas) até **materiais recicláveis** comuns (plástico, papel, vidro) e **rejeitos**.
+---
 
-### ✨ Principais Funcionalidades
+## ✨ Funcionalidades Principais
 
-* **Busca Dinâmica e Inteligente:** O usuário pode pesquisar o item que deseja descartar (ex: "pilhas", "óleo de cozinha", "fraldas") e o sistema filtra a base de dados em tempo real. A busca é normalizada, ignorando acentos e capitalização para garantir resultados precisos.
-* **Base de Conhecimento Completa:** Utiliza um arquivo `data.json` como fonte de dados, categorizando mais de 50 itens com as seguintes informações:
-    * **Nome:** Identificação do resíduo (ex: Celular / Smartphone).
-    * **Tipo:** Classificação geral (ex: Eletrônico, Perigoso, Orgânico, Plástico).
-    * **Descrição:** Instruções claras sobre o preparo e o local de descarte correto (ex: levar a pontos de coleta, enxaguar).
-    * **Curiosidade:** Informações de valor sobre o impacto ou a composição do item (ex: "1 litro de óleo contamina até 25 mil litros de água").
-    * **Link:** Um link direto de pesquisa no Google para que o usuário encontre os pontos de coleta mais próximos de sua região.
-* **Interface Limpa e Responsiva:** O design foca na usabilidade e legibilidade, sendo totalmente adaptável a dispositivos móveis.
-* **Desenvolvimento Minimalista:** Utiliza apenas tecnologias *front-end* (HTML, CSS, JS), sem a necessidade de *frameworks* ou *back-end* complexos, tornando-o leve e fácil de hospedar.
+- **🔍 Busca Inteligente:** Pesquise qualquer resíduo (ex: pilhas, óleo de cozinha, fraldas) com normalização de acentos e letras maiúsculas/minúsculas.
+- **📚 Base de Dados Completa:** Mais de 50 itens categorizados em Eletrônico, Perigoso, Orgânico, Plástico, Vidro e outros.
+- **📝 Informações Detalhadas:** Cada item possui:
+  - Nome: identificação do resíduo  
+  - Tipo: classificação geral  
+  - Descrição: instruções de preparo e descarte  
+  - Curiosidade: informações sobre impacto ambiental ou composição  
+  - Link de referência: pesquisa de pontos de coleta na região
+- **📱 Interface Limpa e Responsiva:** Totalmente adaptável a desktops, tablets e celulares.
+- **⚡ Leve e Minimalista:** Desenvolvido apenas com HTML, CSS e JavaScript puro, sem frameworks ou back-end complexo.
 
-### 💡 Como Usar
+---
 
-1.  **Acesse a Aplicação:** [Link para o GitHub Pages/Exemplo Online].
-2.  **Pesquise:** Digite o nome do item que deseja descartar na barra de busca.
-3.  **Obtenha a Orientação:** Leia o card resultante para saber o **tipo de resíduo**, as **instruções de descarte** e uma **curiosidade** relevante.
-4.  **Encontre o Local:** Clique no link "Como descartar" para realizar uma busca na sua região sobre os pontos de coleta específicos.
+## 💡 Como Usar
 
-Este projeto é ideal para quem busca uma ferramenta educativa de baixo custo operacional e alta relevância socioambiental, sendo uma ótima vitrine para a utilização prática de manipulação de dados em JavaScript puro.
+1. **Acesse a Aplicação:** [EcoGuia no GitHub Pages](https://gabrieldemoura9648.github.io/EcoGuia/)
+2. **Pesquise o Item:** Digite o nome do resíduo na barra de busca.
+3. **Visualize as Instruções:** Veja o tipo de resíduo, como descartá-lo corretamente e uma curiosidade relevante.
+4. **Encontre Pontos de Coleta:** Clique no link "Como descartar" para pesquisar locais próximos.
+
+---
+
+## 🌱 Impacto e Objetivo
+
+O EcoGuia promove **consciência ambiental** e facilita o descarte correto de resíduos, ajudando a **reduzir a poluição**, incentivar a **reciclagem** e educar cidadãos sobre práticas sustentáveis.
+
+---
+
+## 🖼️ Capturas de Tela
+
+![Exemplo de Busca](img/busca-exemplo.png)
+*Barra de busca dinâmica mostrando os resultados filtrados em tempo real.*
+
+![Exemplo de Card](img/card-exemplo.png)
+*Card detalhado exibindo tipo do resíduo, instruções de descarte e curiosidade relevante.*
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- GitHub Pages para hospedagem
+
+---
+
+## 🔗 Links Úteis
+
+- Repositório GitHub: [https://github.com/GabrieldeMoura9648/EcoGuia](https://github.com/GabrieldeMoura9648/EcoGuia)  
+- Projeto Online: [https://gabrieldemoura9648.github.io/EcoGuia/](https://gabrieldemoura9648.github.io/EcoGuia/)
+
+---
+
+## 🎯 Diferenciais do Projeto
+
+- Funcionalidade de busca rápida e precisa  
+- Foco em **educação ambiental no contexto brasileiro**  
+- Interface limpa, moderna e acessível  
+- Totalmente front-end, fácil de hospedar e compartilhar  
