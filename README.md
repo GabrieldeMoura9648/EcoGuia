@@ -24,9 +24,3 @@ Este projeto visa educar e facilitar a vida do cidadão, oferecendo orientaçõe
 4.  **Encontre o Local:** Clique no link "Como descartar" para realizar uma busca na sua região sobre os pontos de coleta específicos.
 
 Este projeto é ideal para quem busca uma ferramenta educativa de baixo custo operacional e alta relevância socioambiental, sendo uma ótima vitrine para a utilização prática de manipulação de dados em JavaScript puro.
-
-Palavras chave: 
-- 1 aprender 
-- 2 na alura 
-- 3 com ia
-- 4 google
