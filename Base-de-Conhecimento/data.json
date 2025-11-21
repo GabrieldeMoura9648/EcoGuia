@@ -1,97 +1,282 @@
 [
-    {
-        "nome": "Abutre",
-        "aparição": "1963 - The Amazing Spider-Man #2",
-        "descrição": "Adrian Toomes, engenheiro que criou um traje alado que permite voo, força aumentada e armas — um dos primeiros inimigos do Homem-Aranha.",
-        "criador(es)": "Stan Lee e Steve Ditko",
-        "link": "https://pt.wikipedia.org/wiki/Abutre_(Marvel_Comics)"
-    },
-
-    {
-        "nome": "Camaleão",
-        "aparição": "1963 - The Amazing Spider-Man #1",
-        "descrição": "Dmitri Smerdyakov, mestre dos disfarces e espionagem, conhecido por se passar por outras pessoas para manipular o Aranha.",
-        "criador(es)": "Stan Lee e Steve Ditko",
-        "link": "https://pt.wikipedia.org/wiki/Camale%C3%A3o_(Marvel_Comics)"
-    },
-
-    {
-        "nome": "Doutor Octopus",
-        "aparição": "1963 - The Amazing Spider-Man #3",
-        "descrição": "Otto Octavius, cientista com tentáculos mecânicos presos ao corpo; um dos intelectos e adversários mais perigosos do Aranha.",
-        "criador(es)": "Stan Lee e Steve Ditko",
-        "link": "https://pt.wikipedia.org/wiki/Doutor_Octopus"
-    },
-
-    {
-        "nome": "Duende Verde",
-        "aparição": "1964 - The Amazing Spider-Man #14",
-        "descrição": "Normalmente associado a Norman Osborn (entre outros), usa tecnologia e munições temáticas; é um inimigo pessoal e icônico do Homem-Aranha.",
-        "criador(es)": "Stan Lee e Steve Ditko",
-        "link": "https://pt.wikipedia.org/wiki/Duende_Verde_(Homem-Aranha)"
-    },
-
-    {
-        "nome": "Eletro",
-        "aparição": "1964 - The Amazing Spider-Man #9",
-        "descrição": "Max Dillon, criminoso que ganhou a habilidade de gerar e controlar eletricidade, representando uma ameaça energética ao Aranha.",
-        "criador(es)": "Stan Lee e Steve Ditko",
-        "link": "https://pt.wikipedia.org/wiki/Eletro_(Marvel_Comics)"
-    },
-
-    {
-        "nome": "Homem-Areia",
-        "aparição": "1963 - The Amazing Spider-Man #4",
-        "descrição": "Flint Marko (às vezes chamado William Baker), ganha a habilidade de transformar seu corpo em areia, mudando forma e densidade.",
-        "criador(es)": "Stan Lee e Steve Ditko",
-        "link": "https://pt.wikipedia.org/wiki/Homem-Areia_(Marvel_Comics)"
-    },
-
-    {
-        "nome": "Kraven, o Caçador",
-        "aparição": "1964 - The Amazing Spider-Man #15",
-        "descrição": "Serguei Kravinoff, caçador obcecado por provar que é superior ao Homem-Aranha; famoso por suas histórias sombrias e a Caçada Final.",
-        "criador(es)": "Stan Lee e Steve Ditko",
-        "link": "https://pt.wikipedia.org/wiki/Kraven,_o_Ca%C3%A7ador"
-    },
-
-    {
-        "nome": "Lagarto",
-        "aparição": "1963 - The Amazing Spider-Man #6",
-        "descrição": "Dr. Curt Connors, cientista que, ao tentar regenerar seu braço perdido, se transforma em um réptil humanoide com força e agilidade aumentadas.",
-        "criador": "Stan Lee e Steve Ditko",
-        "link": "https://pt.wikipedia.org/wiki/Lagarto_(personagem)"
-    },
-
-    {
-        "nome": "Mysterio",
-        "aparição": "1964 - The Amazing Spider-Man #13",
-        "descrição": "Quentin Beck, especialista em efeitos especiais e ilusionismo que usa truques, hologramas e tecnologia para enganar e desafiar o Aranha.",
-        "criador": "Stan Lee e Steve Ditko",
-        "link": "https://pt.wikipedia.org/wiki/Mysterio"
-    },
-
-    {
-        "nome": "Rei do Crime",
-        "aparição": "1967 - The Amazing Spider-Man #50",
-        "descrição": "Wilson Fisk, poderoso chefão do crime organizado, antagonista principal de vários heróis da Marvel, incluindo o Homem-Aranha em algumas histórias.",
-        "criador": "Stan Lee e John Romita Sr.",
-        "link": "https://pt.wikipedia.org/wiki/Kingpin"
-    },
-
-    {
-        "nome": "Shocker",
-        "aparição": "1967 - The Amazing Spider-Man #46",
-        "descrição": "Herman Schultz, inventor de luvas que geram ondas de choque; um antagonista recorrente que aposta em ataques de curto alcance e tecnologia.",
-        "criador": "Stan Lee e John Romita Sr.",
-        "link": "https://pt.wikipedia.org/wiki/Shocker"
-    },
-
-    {
-        "nome": "Venom",
-        "aparição": "1988 - The Amazing Spider-Man #300 (como Venom)",
-        "descrição": "Simbionte que, em combinação com Eddie Brock (entre outros hospedeiros), forma um antagonista com força sobre-humana e ódio pessoal pelo Aranha.",
-        "criador": "David Michelinie e Todd McFarlane",
-        "link": "https://pt.wikipedia.org/wiki/Venom"
-    }
+{
+"nome": "Celular / Smartphone",
+"tipo": "Eletrônico",
+"descricao": "Remova chip/SD e apague dados; Entregue em pontos de coleta de e‑lixo ou lojas que fazem logística reversa, não jogar no lixo comum.",
+"curiosidade": "Contém metais valiosos e tóxicos (ex.: lítio, cádmio).",
+"link": "https://www.google.com/search?q=descarte+celular+e-lixo+Brasil"
+},
+{
+"nome": "Computador e Periféricos",
+"tipo": "Eletrônico",
+"descricao": "Levar a pontos de coleta de eletrônicos ou programas de logística reversa; Separar cabos e baterias e apague seus dados pessoais.",
+"curiosidade": "Muitos componentes podem ser reaproveitados e reciclados.",
+"link": "https://www.google.com/search?q=descarte+computador+e-lixo+Brasil"
+},
+{
+"nome": "Televisão (CRT/LED)",
+"tipo": "Eletrônico",
+"descricao": "Entregar em pontos de coleta especializados; CRTs são perigosos — não quebrar — fabricantes/recicladores recebem TVs.",
+"curiosidade": "CRTs contêm chumbo e precisam de tratamento especial.",
+"link": "https://www.google.com/search?q=descarte+televisao+e-lixo+Brasil"
+},
+{
+"nome": "Pilhas e Baterias (portáteis)",
+"tipo": "Perigoso",
+"descricao": "Nunca jogue no lixo comum, entregue em pontos de coleta (farmácias, supermercados) ou retorne ao fabricante (logística reversa).",
+"curiosidade": "Podem contaminar por décadas com seus metais pesados.",
+"link": "https://www.google.com/search?q=descarte+pilhas+baterias+Brasil"
+},
+{
+"nome": "Lâmpadas Fluorescentes e CFL",
+"tipo": "Perigoso",
+"descricao": "Não quebrar; Guarde em embalagem segura e leve a pontos de coleta de resíduos perigosos ou eletrônicos.",
+"curiosidade": "Contêm pequenas quantidades de mercúrio.",
+"link": "https://www.google.com/search?q=descarte+l%C3%A2mpadas+fluorescentes+Brasil"
+},
+{
+"nome": "Lâmpadas LED",
+"tipo": "Eletrônico",
+"descricao": "Levar a pontos de coleta de eletrônicos ou postos de troca; Não jogar no lixo comum devido a componentes eletrônicos.",
+"curiosidade": "Duram muito mais, mas têm componentes eletrônicos que exigem reciclagem.",
+"link": "https://www.google.com/search?q=descarte+l%C3%A2mpada+led+Brasil"
+},
+{
+"nome": "Óleo de Cozinha Usado",
+"tipo": "Orgânico",
+"descricao": "Deixe esfriar, coe e coloque em garrafa PET fechada; Leve a pontos de coleta ou campanhas de reciclagem de óleo.",
+"curiosidade": "1 litro de óleo contamina até 25 mil litros de água.",
+"link": "https://www.google.com/search?q=descarte+oleo+de+cozinha+Brasil"
+},
+{
+"nome": "Fraldas Descartáveis",
+"tipo": "Rejeito",
+"descricao": "Não recicláveis; Embalar bem e descartar no lixo comum/orgânico-residual destinado a aterro; evitar jogar na natureza.",
+"curiosidade": "Tempo de decomposição varia de dezenas a centenas de anos.",
+"link": "https://www.google.com/search?q=descarte+fraldas+descartaveis+Brasil"
+},
+{
+"nome": "Caixa de Pizza (Engordurada)",
+"tipo": "Papel",
+"descricao": "Parte engordurada vai para o lixo comum/orgânico; tampas limpas podem ser recicladas com papelão, rasgue as partes sujas.",
+"curiosidade": "Gordura contamina a fibra do papel e atrapalha a reciclagem.",
+"link": "https://www.google.com/search?q=descarte+caixa+de+pizza+engordurada+Brasil"
+},
+{
+"nome": "Copos Descartáveis e Isopor (EPS)",
+"tipo": "Plástico",
+"descricao": "Copos sujos não são recicláveis; Isopor deve ser levado a pontos que aceitam EPS; sempre reduzir e reutilizar quando possível.",
+"curiosidade": "EPS é volumoso e difícil de reciclar em muitos municípios.",
+"link": "https://www.google.com/search?q=descarte+copos+descartaveis+isopor+Brasil"
+},
+{
+"nome": "Embalagens Longa Vida (Tetra Pak)",
+"tipo": "Plástico/Multicamadas",
+"descricao": "Enxaguar e levar a pontos de coleta seletiva/reciclagem que processam multicamadas; em alguns locais entra na coleta de papel.",
+"curiosidade": "Compostas por papel, plástico e alumínio — exigem reciclagem específica.",
+"link": "https://www.google.com/search?q=descarte+tetra+pak+Brasil"
+},
+{
+"nome": "Garrafa PET",
+"tipo": "Plástico",
+"descricao": "Esvaziar, amassar para economizar espaço e fechar com a tampa; colocar na coleta seletiva ou pontos de entrega.",
+"curiosidade": "O tempo de decomposição leva por volta de 400 anos; 100% reciclável.",
+"link": "https://www.google.com/search?q=descarte+garrafa+pet+Brasil"
+},
+{
+"nome": "Sacolas Plásticas",
+"tipo": "Plástico",
+"descricao": "Reutilizar; Entregar em pontos de coleta quando disponíveis e não deixá-las soltas na natureza.",
+"curiosidade": "O tempo de decomposição varia de décadas a centenas de anos.",
+"link": "https://www.google.com/search?q=descarte+sacolas+plasticas+Brasil"
+},
+{
+"nome": "Latas de Alumínio",
+"tipo": "Metal",
+"descricao": "Esvaziar, amassar se possível e depositar na coleta seletiva ou levar a centrais de reciclagem; Alta taxa de reciclagem.",
+"curiosidade": "Alumínio é reciclável indefinidamente com grande economia de energia.",
+"link": "https://www.google.com/search?q=descarte+latas+de+aluminio+Brasil"
+},
+{
+"nome": "Papel e Papelão",
+"tipo": "Papel",
+"descricao": "Limpar de sujeiras e óleos, dobrar e colocar na coleta seletiva; papel muito sujo vai para o rejeito/compostagem industrial.",
+"curiosidade": "Reciclar papel economiza água e árvores.",
+"link": "https://www.google.com/search?q=descarte+papel+papelao+Brasil"
+},
+{
+"nome": "Vidro (garrafas e frascos)",
+"tipo": "Vidro",
+"descricao": "Esvaziar, enxaguar se possível e separar por cor quando solicitado; levar à coleta seletiva ou pontos de entrega.",
+"curiosidade": "Vidro pode ser reciclado infinitamente sem perda de qualidade.",
+"link": "https://www.google.com/search?q=descarte+vidro+Brasil"
+},
+{
+"nome": "Espelhos e Vidros Planos",
+"tipo": "Vidro",
+"descricao": "Não misturar com vidro de embalagem; Levar a pontos específicos de coleta de vidros ou caçambas de entulho e os quebrados embalar com segurança.",
+"curiosidade": "Tratamentos e camadas especiais impedem reciclagem junto ao vidro comum.",
+"link": "https://www.google.com/search?q=descarte+espelhos+vidros+planos+Brasil"
+},
+{
+"nome": "Pneus",
+"tipo": "Entulho/Perigoso",
+"descricao": "Levar a postos de coleta especializados, borracharias ou programas como o Reciclanip; Não queimar nem descartar na natureza.",
+"curiosidade": "Pneus podem ser reutilizados em projetos e transformados em asfalto borracha.",
+"link": "https://www.google.com/search?q=descarte+pneus+Brasil+Reciclanip"
+},
+{
+"nome": "Entulho e Resíduos da Construção Civil",
+"tipo": "Entulho e resíduos da construção civil",
+"descricao": "Separar por tipo (madeira, metal, gesso, inertes) e contratar caçamba ou levar a pontos de entrega autorizados; Seguir normas municipais.",
+"curiosidade": "Muitos materiais podem ser reciclados ou reutilizados se separados corretamente.",
+"link": "https://www.google.com/search?q=descarte+entulho+residuos+construcao+civil+Brasil"
+},
+{
+"nome": "Tintas, Solventes e Vernizes",
+"tipo": "Perigoso",
+"descricao": "Não jogar no ralo; levar a pontos de coleta de resíduos perigosos ou campanhas de recolhimento; secar resto de tinta com serragem só se orientado.",
+"curiosidade": "Componentes são tóxicos e exigem tratamento especial.",
+"link": "https://www.google.com/search?q=descarte+tintas+solventes+Brasil"
+},
+{
+"nome": "Medicamentos Vencidos",
+"tipo": "Perigoso",
+"descricao": "Entregar em pontos de coleta de farmácias ou campanhas municipais; não jogar em ralos ou lixo comum.",
+"curiosidade": "Fármacos no meio ambiente afetam fauna aquática e contaminam a água.",
+"link": "https://www.google.com/search?q=descarte+medicamentos+vencidos+Brasil"
+},
+{
+"nome": "Agulhas e Materiais Perfurocortantes (domésticos)",
+"tipo": "Perigoso",
+"descricao": "Guardar em recipiente rígido, identificar e levar a postos de saúde ou pontos de coleta específicos; não colocar soltas no lixo.",
+"curiosidade": "Risco de contaminação e acidentes para coletores.",
+"link": "https://www.google.com/search?q=descarte+agulhas+perfurocortantes+Brasil"
+},
+{
+"nome": "Roupas e Têxteis",
+"tipo": "Têxtil",
+"descricao": "Doar se em bom estado; separar para reutilização ou levar a pontos de coleta têxtil; itens muito danificados viram rags ou rejeito.",
+"curiosidade": "Setor têxtil gera grande volume de resíduo — doação aumenta vida útil.",
+"link": "https://www.google.com/search?q=descarte+roupas+tecidos+Brasil"
+},
+{
+"nome": "Isopor (EPS)",
+"tipo": "Plástico",
+"descricao": "Evitar uso; quando necessário, separar limpo e levar a pontos que aceitam EPS, pois nem todo município recicla isopor.",
+"curiosidade": "Volumoso e de baixa densidade, gera custos logísticos elevados.",
+"link": "https://www.google.com/search?q=descarte+isopor+eps+Brasil"
+},
+{
+"nome": "Restos de Poda e Jardinagem",
+"tipo": "Orgânico",
+"descricao": "Compostar em casa ou levar a ecopontos/compostagem municipal; evitar queimar e misturar com recicláveis.",
+"curiosidade": "Ótimos para compostagem e **ajudam** a reduzir resíduos enviados a aterros.",
+"link": "https://www.google.com/search?q=descarte+restos+poda+jardinagem+Brasil"
+},
+{
+"nome": "Restos de Comida",
+"tipo": "Orgânico",
+"descricao": "Separar para compostagem doméstica ou coleta de orgânicos; não misturar com recicláveis e evitar despejar em locais impróprios.",
+"curiosidade": "Em aterros geram metano, gás de efeito estufa.",
+"link": "https://www.google.com/search?q=descarte+restos+de+comida+compostagem+Brasil"
+},
+{
+"nome": "Cerâmica e Porcelana",
+"tipo": "Rejeito",
+"descricao": "Não misturar com vidro de embalagem; embalar e levar a pontos de entulho ou descarte em aterro conforme regras municipais.",
+"curiosidade": "Não são recicláveis junto ao vidro comum por diferença de composição.",
+"link": "https://www.google.com/search?q=descarte+ceramica+porcelana+Brasil"
+},
+{
+"nome": "Óleo Lubrificante e Óleo de Motor",
+"tipo": "Perigoso",
+"descricao": "Levar a postos de coleta automotiva, oficinas ou pontos de troca de óleo; nunca descartar no solo, ralos ou lixo comum.",
+"curiosidade": "Altamente contaminante e persistente no ambiente.",
+"link": "https://www.google.com/search?q=descarte+oleo+de+motor+Brasil"
+},
+{
+"nome": "CDs e DVDs",
+"tipo": "Plástico/Eletrônico",
+"descricao": "Levar a pontos de coleta de eletrônicos ou reciclagem de plásticos específicos; não jogar no lixo comum quando houver alternativa.",
+"curiosidade": "São polímeros com camada refletiva metálica, dificultando reciclagem comum.",
+"link": "https://www.google.com/search?q=descarte+cd+dvd+Brasil"
+},
+{
+"nome": "Embalagens de Produtos de Limpeza (resíduos líquidos)",
+"tipo": "Perigoso",
+"descricao": "Enxaguar conforme orientação, amassar e levar embalagens vazias à reciclagem; restos de produto levar a pontos de resíduos perigosos.",
+"curiosidade": "Resíduos químicos exigem tratamento para não contaminar água e solo.",
+"link": "https://www.google.com/search?q=descarte+embalagens+produtos+de+limpeza+Brasil"
+},
+{
+"nome": "Óculos (Armações e Lentes)",
+"tipo": "Multimaterial",
+"descricao": "Armações em bom estado podem ser doadas. As quebradas (plástico/metal) devem ser levadas a programas de reciclagem de óticas ou centros de coleta de lixo eletrônico.",
+"curiosidade": "As lentes de grau não são recicladas no fluxo comum de vidro/plástico.",
+"link": "https://www.google.com/search?q=descarte+de+armacoes+e+lentes+de+oculos+Brasil"
+},
+{
+"nome": "Móveis Velhos e Madeira",
+"tipo": "Entulho/Volumoso",
+"descricao": "Não descarte em lixeiras comuns. Agende a coleta municipal (cata-treco) ou leve a um Ecoponto/Ponto de Entrega Voluntária (PEV) de sua cidade.",
+"curiosidade": "Madeira maciça pode ser reutilizada ou reciclada; compensados e aglomerados costumam ser rejeitos.",
+"link": "https://www.google.com/search?q=descarte+de+moveis+velhos+Brasil"
+},
+{
+"nome": "Eletrodomésticos (Geladeira, Fogão, Máquina de Lavar)",
+"tipo": "Eletrônico/Volumoso",
+"descricao": "Entre em contato com o fabricante para logística reversa, leve a um PEV que aceite grandes volumes ou a um reciclador especializado. Nunca descarte na rua.",
+"curiosidade": "Geladeiras e freezers contêm gases refrigerantes que precisam ser removidos de forma segura para não danificar a camada de ozônio.",
+"link": "https://www.google.com/search?q=descarte+eletrodomesticos+linha+branca+Brasil"
+},
+{
+"nome": "Cápsulas de Café",
+"tipo": "Plástico/Alumínio",
+"descricao": "Armazene as cápsulas usadas e entregue nos pontos de coleta das próprias marcas ou em ecopontos que aceitam multicamadas.",
+"curiosidade": "São compostas por plástico, alumínio e resíduos de café; exigem reciclagem específica.",
+"link": "https://www.google.com/search?q=descarte+capsulas+de+cafe+Brasil"
+},
+{
+"nome": "Cartuchos e Toners",
+"tipo": "Perigoso/Eletrônico",
+"descricao": "Armazene fechados e leve a lojas, fabricantes ou programas de logística reversa. Não perfure e não descarte no lixo comum.",
+"curiosidade": "Contêm tinta e pó que podem ser tóxicos ao meio ambiente.",
+"link": "https://www.google.com/search?q=descarte+cartucho+toner+Brasil"
+},
+{
+"nome": "Esponjas de Cozinha",
+"tipo": "Rejeito/Programa Específico",
+"descricao": "Descartar como rejeito se estiver muito usada. Algumas empresas oferecem programas de reciclagem específicos.",
+"curiosidade": "Não são recicláveis na coleta seletiva comum.",
+"link": "https://www.google.com/search?q=descarte+esponja+de+cozinha+Brasil"
+},
+{
+"nome": "Cartelas de Remédios",
+"tipo": "Perigoso/Multimaterial",
+"descricao": "Leve a farmácias e postos de coleta que possuem logística reversa de medicamentos e embalagens.",
+"curiosidade": "São compostos por plástico e alumínio; exigem reciclagem específica.",
+"link": "https://www.google.com/search?q=descarte+blister+remedios+Brasil"
+},
+{
+"nome": "Fios e Cabos Elétricos",
+"tipo": "Eletrônico/Perigoso",
+"descricao": "Leve a pontos de coleta de eletrônicos ou recicladores especializados. Não jogue no lixo comum.",
+"curiosidade": "Contêm metais valiosos como cobre e alumínio, além de materiais plásticos.",
+"link": "https://www.google.com/search?q=descarte+fios+cabos+eletricos+Brasil"
+},
+{
+"nome": "Aerossóis (sprays)",
+"tipo": "Metal/Perigoso",
+"descricao": "Descartar somente após esvaziar totalmente. Envie à reciclagem de metais ou a pontos de coleta adequados.",
+"curiosidade": "Podem explodir quando prensados se contiverem pressão interna.",
+"link": "https://www.google.com/search?q=descarte+aerossois+spray+Brasil"
+},
+{
+"nome": "Itens de Higiene Pessoal",
+"tipo": "Rejeito",
+"descricao": "Descartar no lixo comum destinado a aterro. Programas específicos de reciclagem podem existir em algumas regiões.",
+"curiosidade": "Não são recicláveis pela coleta seletiva tradicional.",
+"link": "https://www.google.com/search?q=descarte+itens+higiene+pessoal+Brasil"
+}
 ]
