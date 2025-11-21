@@ -1,247 +1,262 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 * {
-    box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total do elemento */
+    box-sizing: border-box;
 }
 
 :root {
-    --primary-color: #2e7d32;   /* Cor primária (verde floresta - títulos e hover) */
-    --secondary-color: #37474f; /* Cor secundária (cinza escuro azulado - texto padrão) */
-    --tertiary-color: #81c784;  /* Cor terciária (verde claro - bordas e detalhes) */
-    --bg-color: #f1f8e9;        /* Cor de fundo (creme/verde muito pálido) */
+    --primary-color: #2e7d32;
+    --secondary-color: #37474f;
+    --tertiary-color: #81c784;
+    --bg-color: #f1f8e9;
 }
 
 body {
-    margin: 0;                                  /* Remove a margem padrão do body */
-    background: var(--bg-color);                /* Define a cor de fundo usando uma variável */
-    color: var(--secondary-color);              /* Define a cor do texto padrão usando uma variável */
-    font-family: "Roboto", system-ui, sans-serif; /* Define a família da fonte (mais moderna) */
+    margin: 0;
+    background: var(--bg-color);
+    color: var(--secondary-color);
+    font-family: "Roboto", system-ui, sans-serif;
 }
 
 header {
-    padding: 2rem 1rem;                         /* Espaçamento interno (2rem em cima/baixo, 1rem nos lados) */
-    display: flex;                              /* Habilita o layout flexbox */
-    align-items: center;                        /* Alinha os itens verticalmente ao centro */
-    justify-content: space-around;              /* Distribui os itens com espaço ao redor */
-    position: sticky;                           /* Mantém o cabeçalho fixo no topo ao rolar a página */
-    top: 0;                                     /* Posição do topo quando sticky */
-    background: #ffffff;                        /* Cor de fundo do cabeçalho (branco para destaque) */
-    z-index: 10;                                /* Define a ordem de empilhamento para ficar sobre outros elementos */
-    border-bottom: 1px solid var(--tertiary-color); /* Adiciona uma borda inferior */
-    gap: 1rem;                                  /* Espaçamento entre os elementos flex */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);     /* Sombra suave para separar o cabeçalho */
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    background: #ffffff;
+    z-index: 10;
+    border-bottom: 1px solid var(--tertiary-color);
+    gap: 1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
 header h1 {
-    font-size: 1.5rem;      /* Tamanho da fonte */
-    margin: 0;              /* Remove a margem padrão */
-    font-weight: 700;       /* Peso da fonte (negrito) */
-    white-space: nowrap;    /* Impede a quebra de linha do texto */
-    color: var(--primary-color); /* Cor do título */
+    font-size: 1.5rem;
+    margin: 0;
+    font-weight: 700;
+    white-space: nowrap;
+    color: var(--primary-color);
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.icone {
+    width: 60px;
+    height: auto;
 }
 
 div input {
-    padding: 0.375rem 0.75rem;                  /* Espaçamento interno */
-    border-radius: 1rem;                        /* Arredonda as bordas */
-    border: 2px solid var(--tertiary-color);    /* Define a borda (mais visível) */
-    background: #ffffff;                        /* Cor de fundo */
-    font-family: inherit;                       /* Herda a família da fonte do elemento pai */
-    font-size: 1.5rem;                          /* Tamanho da fonte */
-    transition: all 0.2s ease;                  /* Adiciona uma transição suave para todas as propriedades */
-    width: 30rem;                               /* Largura do input */
-    color: var(--secondary-color);              /* Cor do texto digitado */
-    margin-right: .5rem;                        /* Margem à direita */
+    padding: 0.375rem 0.75rem;
+    border-radius: 1rem;
+    border: 2px solid var(--tertiary-color);
+    background: #ffffff;
+    font-family: inherit;
+    font-size: 1.5rem;
+    transition: all 0.2s ease;
+    width: 30rem;
+    color: var(--secondary-color);
+    margin-right: .5rem;
 }
 
 div input::placeholder {
-    font-size: 1.2rem;              /* Tamanho da fonte do placeholder */
-    font-weight: 400;               /* Peso da fonte do placeholder */
-    color: #90a4ae;                 /* Cor do texto do placeholder (cinza suave) */
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #90a4ae;
 }
 
 div input:focus {
-    outline: none;                                  /* Remove a borda de foco padrão */
-    border-color: var(--primary-color);             /* Muda a cor da borda ao focar */
-    box-shadow: 0 0 0 0.2rem rgba(46, 125, 50, 0.2); /* Adiciona uma sombra de caixa verde suave */
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.2rem rgba(46, 125, 50, 0.2);
 }
 
 #botao-busca {
-    padding: 1rem 2rem;                                         /* Espaçamento interno */
-    border-radius: 1rem;                                        /* Arredonda as bordas */
-    border: none;                                               /* Remove a borda padrão */
-    cursor: pointer;                                            /* Muda o cursor para uma mão ao passar por cima */
-    font-family: inherit;                                       /* Herda a família da fonte */
-    font-weight: 700;                                           /* Peso da fonte */
-    font-size: 1rem;                                            /* Tamanho da fonte */
-    white-space: nowrap;                                        /* Impede a quebra de linha do texto */
-    transition: background-color 0.2s ease, color 0.2s ease;    /* Transição suave para cor de fundo e cor do texto */
-    background-color: var(--primary-color);                     /* Cor de fundo (verde forte) */
-    color: #ffffff;                                             /* Cor do texto (branco) */
-    border: 1px solid var(--primary-color);                     /* Adiciona uma borda */
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 1rem;
+    white-space: nowrap;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    background-color: var(--primary-color);
+    color: #ffffff;
+    border: 1px solid var(--primary-color);
 }
 
 #botao-busca:hover {
-    background-color: var(--secondary-color);       /* Muda a cor de fundo ao passar o mouse */
-    color: #ffffff;                                 /* Muda a cor do texto ao passar o mouse */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);          /* Adiciona uma sombra de caixa mais forte */
+    background-color: var(--secondary-color);
+    color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
 #botao-busca:active {
-    transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
+    transform: scale(0.98);
 }
 
 main {
-    overflow-y: scroll;                 /* Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura */
-    max-width: 80rem;                   /* Largura máxima do conteúdo principal */
-    margin: 0 auto;                     /* Centraliza o conteúdo principal horizontalmente */
-    margin-top: 2rem;                   /* Margem no topo */
-    height: calc(100vh - 10rem - 4rem); /* Calcula a altura para preencher o espaço restante da tela */
-    padding-bottom: 2rem;               /* Espaço extra no final */
+    overflow-y: scroll;
+    max-width: 80rem;
+    margin: 0 auto;
+    margin-top: 2rem;
+    height: calc(100vh - 10rem - 4rem);
+    padding-bottom: 6rem;
 }
 
 article {
-    background: #ffffff;                                                    /* Fundo branco para os cards (destaque) */
-    border-radius: 12px;                                                    /* Bordas arredondadas (visual moderno) */
-    padding: 1.5rem;                                                        /* Aumentei o padding */
-    margin-bottom: 1.25rem;                                                 /* Margem inferior */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);                                 /* Sombra suave */
-    transition: transform 0.3s ease, box-shadow 0.3s ease;                  /* Transição suave */
-    border: 1px solid #e0e0e0;                                              /* Borda sutil */
-    border-bottom: 4px solid var(--tertiary-color);                         /* Detalhe verde na parte inferior */
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid #e0e0e0;
+    border-bottom: 4px solid var(--tertiary-color);
 }
 
 article:hover {
-    transform: translateY(-3px); /* Move ligeiramente para cima */
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1); /* Aumenta a sombra */
-    border-bottom-color: var(--primary-color); /* Muda a cor da borda inferior */
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    border-bottom-color: var(--primary-color);
 }
 
 article h2 {
-    margin-top: 0;                  /* Remove a margem superior */
-    font-weight: 700;               /* Peso da fonte */
-    font-size: 1.6rem;              /* Tamanho da fonte */
-    border-bottom: none;            /* Sem borda inferior */
-    padding-bottom: 0;              /* Sem espaçamento interno inferior */
-    margin-bottom: 0.5rem;          /* Margem inferior */
-    color: var(--primary-color);    /* Cor do texto */
+    margin-top: 0;
+    font-weight: 700;
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
 }
 
 article p {
-    margin: 0.5rem 0;               /* Margem superior e inferior */
-    line-height: 1.6;               /* Altura da linha para melhor legibilidade */
-    font-size: 1rem;                /* Tamanho da fonte */
-    margin-bottom: 0.5rem;          /* Margem inferior */
-    color: #546e7a;                 /* Cor do texto (cinza médio para leitura) */
+    margin: 0.5rem 0;
+    line-height: 1.6;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #546e7a;
 }
 
 article p strong {
-    color: var(--secondary-color);  /* Cor do texto em negrito */
-    font-weight: 700;               /* Peso da fonte */
+    color: var(--secondary-color);
+    font-weight: 700;
 }
 
 article a {
-    color: var(--primary-color);    /* Cor do link */
-    text-decoration: none;          /* Remove o sublinhado padrão */
-    font-weight: 500;               /* Peso da fonte */
-    border-bottom: 1px dashed var(--tertiary-color); /* Estilo no link */
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+    border-bottom: 1px dashed var(--tertiary-color);
 }
 
 article a:hover {
-    text-decoration: none;          /* Remove sublinhado padrão */
-    border-bottom: 1px solid var(--primary-color); /* Borda sólida ao passar o mouse */
+    border-bottom: 1px solid var(--primary-color);
     color: var(--secondary-color);
 }
 
-.footer {
-    position: absolute;                 /* Posicionamento absoluto em relação ao elemento pai posicionado */
-    bottom: 0;                          /* Alinha na parte inferior */
-    left: 0;                            /* Alinha à esquerda */
-    width: 100%;                        /* Largura total */
-    color: #ffffff;                        /* Cor do texto (branco) */
-    background-color: var(--primary-color);  /* Cor de fundo (verde) */
-    padding: 15px 20px;                 /* Espaçamento interno */
-    border-top: none;                   /* Sem borda superior */
-    font-size: 1.0rem;                  /* Tamanho da fonte */
+footer.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(135deg, #2e7d32, #66bb6a);
+    color: #ffffff;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.25);
+    border-top: 3px solid var(--tertiary-color);
+    z-index: 999;
 }
 
+
 .footer-location {
-    color: #c8e6c9;       /* Cor do texto (verde claro) */
-    margin-bottom: 10px;    /* Margem inferior */
+    color: #e8f5e9;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
 }
 
 .footer-links {
-    list-style: none;           /* Remove os marcadores da lista */
-    display: flex;              /* Habilita o layout flexbox */
-    flex-wrap: wrap;            /* Permite que os itens quebrem para a próxima linha */
-    justify-content: center;    /* Centraliza os itens horizontalmente */
-    gap: 15px;                  /* Espaçamento entre os links */
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
 }
 
 .footer-links a {
-    color: #ffffff;               /* Cor do link (branco) */
-    text-decoration: none;          /* Remove o sublinhado */
-    transition: opacity 0.2s;       /* Transição suave */
-    opacity: 0.8;
+    color: #ffffff;
+    text-decoration: none;
+    opacity: 0.85;
+    font-size: 1rem;
+    transition: opacity .2s, transform .2s;
 }
 
 .footer-links a:hover {
-    opacity: 1;                     /* Destaque ao passar o mouse */
+    opacity: 1;
+    transform: scale(1.05);
     text-decoration: underline;
 }
 
+/* RESPONSIVIDADE */
+
 @media (max-width: 768px) {
-    header {                    /* Estilos para telas com largura máxima de 768px */
-        flex-direction: column; /* Organiza os itens do cabeçalho em coluna */
-        padding: 1rem;          /* Reduz o espaçamento interno */
+    header {
+        flex-direction: column;
+        padding: 1rem;
     }
 
-    header h1 {                 /* Estilos para o h1 no cabeçalho em telas menores */
-        text-align: center;     /* Centraliza o texto */
-        margin-bottom: 1rem;    /* Adiciona margem inferior */
+    header h1 {
+        text-align: center;
+        margin-bottom: 1rem;
     }
 
-    div input {             /* Estilos para o input em telas menores */
-        width: 90vw;        /* Largura baseada na largura da viewport */
-        font-size: 1.2rem;  /* Reduz o tamanho da fonte */
+    div input {
+        width: 90vw;
+        font-size: 1.2rem;
     }
 
-    main {                  /* Estilos para o main em telas menores */
-        padding: 0 1rem;    /* Adiciona espaçamento lateral */
+    main {
+        padding: 0 1rem;
     }
 
-    article:hover {         /* Estilos para o article em telas menores */
-        transform: none;    /* Remove o efeito de escala ao passar o mouse */
+    article:hover {
+        transform: none;
     }
 }
 
 @media (max-width: 480px) {
-    header h1 {                 /* Estilos para o h1 em telas com largura máxima de 480px */
-        font-size: 1.2rem;      /* Reduz ainda mais o tamanho da fonte */
-        max-width: 90%;         /* Define uma largura máxima */
-        word-wrap: break-word; /* Permite a quebra de palavras longas */
+    header h1 {
+        font-size: 1.2rem;
+        max-width: 90%;
+        word-wrap: break-word;
     }
 
-    div input,                  /* Estilos para o input e seu placeholder em telas muito pequenas */
+    div input,
     div input::placeholder {
-        font-size: 1rem;        /* Reduz o tamanho da fonte */
+        font-size: 1rem;
     }
 
-    article h2 {            /* Estilos para o h2 do article em telas muito pequenas */
-        font-size: 1.3rem;  /* Reduz o tamanho da fonte */
+    article h2 {
+        font-size: 1.3rem;
     }
 
-    div {                           /* Estilos para a div do cabeçalho em telas muito pequenas */
-        display: flex;              /* Habilita flexbox */
-        align-items: center;        /* Alinha itens ao centro */
-        justify-content: center;    /* Centraliza itens */
-        flex-direction: column;     /* Organiza em coluna */
-        gap: 0.5rem;                /* Espaçamento entre os itens */
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 0.5rem;
     }
 
-    .footer {           /* Estilos para o rodapé em telas muito pequenas */
-        display: none;  /* Oculta o rodapé */
-    }
-
-    button {                /* Estilos para o botão em telas muito pequenas */
-        margin-top: 1rem;   /* Adiciona margem no topo */
+    button {
+        margin-top: 1rem;
     }
 }
